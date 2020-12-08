@@ -1,0 +1,13 @@
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.exe
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.deps.json
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.runtimeconfig.json
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.dll
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.pdb
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.AssemblyInfo.cs
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.dll
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.pdb
+C:\Users\Dev\Desktop\aulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\aulaPOO_Encapsulamento.genruntimeconfig.cache
